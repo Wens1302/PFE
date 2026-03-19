@@ -1,0 +1,151 @@
+entreprise_id,secteur_activite,ligne_de_credit,pct_utilisation_credit,historique_paiement,ville,nb_transactions_historique
+E0001,Textile,14960234.75,27.04,Excellent,Fès,27
+E0002,Commerce général,8727475.48,7.68,Excellent,Fès,130
+E0003,Pharmaceutique,4377334.19,63.49,Bon,Fès,57
+E0004,Commerce général,5924718.81,83.24,Moyen,Meknès,41
+E0005,Matériaux de construction,5918491.16,24.38,Moyen,Meknès,27
+E0006,Minerais & Métaux,2385969.35,81.27,Bon,Fès,12
+E0007,Pharmaceutique,2934110.18,88.01,Excellent,Meknès,76
+E0008,Commerce général,4249627.51,11.26,Moyen,Meknès,75
+E0009,Cuir & Maroquinerie,17396431.5,39.21,Bon,Fès,94
+E0010,Matériaux de construction,7427778.65,65.32,Moyen,Fès,19
+E0011,Pharmaceutique,14717972.56,19.71,Bon,Fès,143
+E0012,Matériaux de construction,16935612.44,74.84,Excellent,Fès,9
+E0013,Minerais & Métaux,5720947.08,23.99,Mauvais,Meknès,81
+E0014,Electronique,8214822.07,87.31,Bon,Fès,68
+E0015,Cuir & Maroquinerie,15027285.15,53.51,Moyen,Fès,110
+E0016,Matériaux de construction,4776754.8,94.78,Bon,Meknès,24
+E0017,Agroalimentaire,3480405.73,19.4,Moyen,Fès,17
+E0018,Minerais & Métaux,12119824.35,47.12,Bon,Meknès,142
+E0019,Agroalimentaire,13793352.2,53.33,Bon,Fès,88
+E0020,Tourisme,8977922.39,45.84,Mauvais,Fès,68
+E0021,Pharmaceutique,18296242.87,83.35,Bon,Fès,130
+E0022,Chimie & Parachimie,7791320.13,19.54,Mauvais,Fès,136
+E0023,Commerce général,6821043.11,6.75,Mauvais,Fès,79
+E0024,Textile,5196996.05,56.06,Excellent,Fès,125
+E0025,Pharmaceutique,15433771.37,16.56,Bon,Fès,141
+E0026,Tourisme,10789638.85,59.59,Mauvais,Fès,139
+E0027,Tourisme,8280349.85,65.45,Bon,Fès,133
+E0028,Agroalimentaire,5334159.47,10.76,Excellent,Meknès,142
+E0029,Commerce général,4794239.0,11.39,Bon,Fès,59
+E0030,Textile,17262890.3,11.38,Excellent,Fès,125
+E0031,Pharmaceutique,3080081.05,89.2,Bon,Fès,122
+E0032,Electronique,16246191.46,22.14,Excellent,Fès,111
+E0033,Minerais & Métaux,8516494.38,82.75,Excellent,Meknès,26
+E0034,Minerais & Métaux,14700164.97,77.05,Excellent,Fès,50
+E0035,Pharmaceutique,9247964.18,42.97,Bon,Fès,64
+E0036,Electronique,16256433.77,82.04,Excellent,Fès,139
+E0037,Agroalimentaire,18564156.17,81.38,Excellent,Fès,125
+E0038,Cuir & Maroquinerie,17360682.68,86.22,Excellent,Meknès,1
+E0039,Tourisme,18567102.43,75.66,Bon,Meknès,143
+E0040,Chimie & Parachimie,4203008.41,24.59,Excellent,Meknès,139
+E0041,Matériaux de construction,1614722.82,57.58,Bon,Fès,136
+E0042,Textile,19235188.61,12.21,Excellent,Fès,18
+E0043,Minerais & Métaux,2837788.97,85.13,Excellent,Fès,11
+E0044,Minerais & Métaux,13318776.71,55.87,Bon,Fès,67
+E0045,Matériaux de construction,5154376.08,40.62,Moyen,Fès,77
+E0046,Matériaux de construction,18615857.47,89.22,Excellent,Meknès,145
+E0047,Agroalimentaire,10983870.88,50.53,Excellent,Fès,90
+E0048,Cuir & Maroquinerie,7705778.23,19.2,Moyen,Fès,78
+E0049,Pharmaceutique,6337885.67,64.7,Mauvais,Fès,35
+E0050,Agroalimentaire,17849397.79,71.82,Excellent,Meknès,73
+E0051,Matériaux de construction,4470147.59,62.08,Bon,Fès,126
+E0052,Textile,2299820.12,43.12,Bon,Meknès,1
+E0053,Chimie & Parachimie,12923710.86,28.58,Moyen,Meknès,142
+E0054,Pharmaceutique,688559.14,11.77,Moyen,Meknès,39
+E0055,Matériaux de construction,11858936.55,18.33,Excellent,Fès,79
+E0056,Textile,18029030.41,23.91,Excellent,Meknès,27
+E0057,Pharmaceutique,17740626.68,41.57,Bon,Meknès,40
+E0058,Chimie & Parachimie,19536017.64,77.97,Moyen,Fès,7
+E0059,Matériaux de construction,15756536.67,42.05,Moyen,Fès,64
+E0060,Chimie & Parachimie,15853802.93,14.73,Moyen,Meknès,121
+E0061,Cuir & Maroquinerie,16423438.81,46.43,Bon,Fès,59
+E0062,Textile,13370647.06,40.86,Bon,Fès,18
+E0063,Matériaux de construction,13008893.9,40.97,Mauvais,Meknès,138
+E0064,Textile,2749164.16,92.34,Excellent,Meknès,68
+E0065,Agroalimentaire,12133139.47,36.11,Moyen,Fès,112
+E0066,Minerais & Métaux,18040342.29,22.11,Excellent,Fès,112
+E0067,Pharmaceutique,18548715.73,53.46,Moyen,Fès,51
+E0068,Minerais & Métaux,1864489.32,64.78,Bon,Meknès,81
+E0069,Tourisme,10388888.83,65.02,Bon,Fès,76
+E0070,Cuir & Maroquinerie,8698703.51,89.63,Moyen,Fès,45
+E0071,Minerais & Métaux,11184775.66,5.04,Bon,Meknès,111
+E0072,Electronique,9114827.33,65.81,Bon,Meknès,44
+E0073,Tourisme,10551314.19,61.96,Bon,Fès,61
+E0074,Cuir & Maroquinerie,16227976.44,18.26,Excellent,Meknès,122
+E0075,Electronique,8581599.71,61.68,Excellent,Fès,99
+E0076,Minerais & Métaux,5257696.57,64.05,Excellent,Meknès,28
+E0077,Cuir & Maroquinerie,3929790.29,91.22,Bon,Meknès,13
+E0078,Agroalimentaire,9401005.6,77.13,Moyen,Fès,144
+E0079,Electronique,12446720.29,69.73,Bon,Meknès,141
+E0080,Chimie & Parachimie,15001281.12,47.72,Bon,Meknès,64
+E0081,Pharmaceutique,9949641.83,26.53,Bon,Meknès,74
+E0082,Tourisme,7049026.96,85.37,Excellent,Fès,39
+E0083,Minerais & Métaux,14032021.34,68.58,Excellent,Fès,105
+E0084,Pharmaceutique,9585523.92,10.6,Moyen,Meknès,100
+E0085,Commerce général,7917430.06,5.53,Bon,Fès,100
+E0086,Pharmaceutique,15076555.55,54.15,Bon,Meknès,57
+E0087,Cuir & Maroquinerie,5822238.58,48.71,Bon,Meknès,104
+E0088,Electronique,18431061.6,93.26,Bon,Fès,101
+E0089,Agroalimentaire,13033618.14,17.21,Bon,Fès,13
+E0090,Minerais & Métaux,6883377.01,45.92,Bon,Meknès,98
+E0091,Minerais & Métaux,5419294.87,12.37,Excellent,Meknès,139
+E0092,Matériaux de construction,4872332.23,11.18,Mauvais,Fès,11
+E0093,Cuir & Maroquinerie,4387533.31,6.83,Excellent,Fès,33
+E0094,Agroalimentaire,11497406.85,24.62,Moyen,Meknès,95
+E0095,Commerce général,12341326.13,72.31,Excellent,Fès,42
+E0096,Agroalimentaire,11784352.28,88.6,Bon,Meknès,97
+E0097,Cuir & Maroquinerie,1981931.32,67.16,Bon,Meknès,27
+E0098,Commerce général,16207795.29,76.66,Bon,Meknès,11
+E0099,Pharmaceutique,8853371.26,38.35,Bon,Meknès,88
+E0100,Minerais & Métaux,16535452.9,14.5,Mauvais,Fès,118
+E0101,Minerais & Métaux,3934670.74,51.96,Moyen,Fès,138
+E0102,Electronique,8993702.61,70.79,Bon,Meknès,63
+E0103,Tourisme,17691808.09,26.95,Bon,Fès,98
+E0104,Textile,10138976.82,34.25,Bon,Meknès,91
+E0105,Matériaux de construction,5953340.52,58.65,Moyen,Meknès,143
+E0106,Pharmaceutique,18987220.27,12.71,Moyen,Fès,126
+E0107,Electronique,13095106.54,49.17,Moyen,Fès,24
+E0108,Cuir & Maroquinerie,8385822.01,26.9,Moyen,Meknès,95
+E0109,Pharmaceutique,10852977.66,43.3,Moyen,Meknès,85
+E0110,Electronique,5782870.33,27.63,Excellent,Meknès,50
+E0111,Agroalimentaire,14986180.74,90.58,Moyen,Meknès,50
+E0112,Electronique,5891742.73,58.06,Moyen,Fès,73
+E0113,Cuir & Maroquinerie,6276806.03,37.48,Bon,Fès,137
+E0114,Tourisme,1387556.17,9.91,Bon,Fès,33
+E0115,Agroalimentaire,17518034.83,56.67,Bon,Meknès,113
+E0116,Chimie & Parachimie,19327204.04,27.72,Moyen,Meknès,30
+E0117,Minerais & Métaux,10089057.93,56.93,Moyen,Fès,39
+E0118,Commerce général,19007950.03,12.67,Excellent,Fès,143
+E0119,Commerce général,12124473.49,60.66,Moyen,Meknès,98
+E0120,Electronique,6298386.08,57.97,Bon,Meknès,146
+E0121,Commerce général,19222121.16,13.93,Moyen,Fès,55
+E0122,Agroalimentaire,3562613.32,20.64,Excellent,Meknès,1
+E0123,Electronique,13942737.15,47.29,Excellent,Meknès,74
+E0124,Electronique,1888005.32,26.01,Bon,Meknès,51
+E0125,Agroalimentaire,11118966.38,63.29,Mauvais,Meknès,37
+E0126,Textile,3735494.39,32.69,Moyen,Fès,146
+E0127,Electronique,2924896.33,66.98,Moyen,Meknès,70
+E0128,Electronique,2068616.11,8.59,Bon,Meknès,83
+E0129,Textile,2280874.29,91.57,Moyen,Meknès,148
+E0130,Tourisme,11736816.2,73.68,Excellent,Fès,133
+E0131,Tourisme,4039038.37,57.68,Bon,Meknès,126
+E0132,Electronique,7285240.6,35.0,Moyen,Fès,42
+E0133,Minerais & Métaux,14026636.64,30.94,Mauvais,Meknès,141
+E0134,Electronique,2217165.96,27.72,Excellent,Fès,104
+E0135,Pharmaceutique,9508538.73,9.88,Bon,Fès,128
+E0136,Textile,4469385.65,54.43,Mauvais,Meknès,113
+E0137,Agroalimentaire,1062954.13,61.7,Moyen,Meknès,41
+E0138,Pharmaceutique,766652.06,41.72,Excellent,Meknès,30
+E0139,Agroalimentaire,13130338.93,18.86,Mauvais,Meknès,75
+E0140,Minerais & Métaux,16777116.94,93.22,Excellent,Meknès,142
+E0141,Minerais & Métaux,4216902.23,58.94,Moyen,Fès,35
+E0142,Tourisme,15567165.09,81.9,Bon,Fès,130
+E0143,Textile,6015360.17,31.87,Bon,Meknès,126
+E0144,Electronique,11002321.27,36.06,Bon,Fès,140
+E0145,Electronique,18690618.99,83.26,Mauvais,Meknès,62
+E0146,Cuir & Maroquinerie,17192253.03,41.97,Bon,Meknès,122
+E0147,Minerais & Métaux,19774073.04,76.32,Moyen,Meknès,39
+E0148,Textile,2961802.26,91.88,Bon,Meknès,26
+E0149,Agroalimentaire,10756046.19,46.12,Moyen,Meknès,105
+E0150,Agroalimentaire,9655066.72,92.23,Bon,Fès,102

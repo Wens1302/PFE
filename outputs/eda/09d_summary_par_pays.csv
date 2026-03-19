@@ -1,0 +1,13 @@
+Pays,Notation,Libellé risque,Nb transactions,Montant moyen (MAD),Taux retard (%),Taux fraude (%),Risque opérationnel (%),Score AML moyen,Retard moyen (j)
+Allemagne,1,Très faible,114,881880,21.1,3.5,2.6,21.5,5.1
+Belgique,1,Très faible,117,831926,24.8,4.3,1.7,19.1,6.0
+France,1,Très faible,132,846014,16.7,1.5,3.8,19.1,3.5
+Espagne,1,Très faible,111,865706,22.5,3.6,3.6,21.3,5.3
+Italie,1,Très faible,123,806476,26.0,3.3,4.1,19.6,6.6
+Pays-Bas,1,Très faible,130,830435,23.1,3.8,4.6,20.4,4.9
+États-Unis,1,Très faible,121,905528,18.2,7.4,4.1,21.0,4.6
+Émirats arabes unis,2,Faible,139,828354,22.3,8.6,9.4,28.1,5.3
+Turquie,3,Modéré,114,801250,25.4,17.5,22.8,35.4,5.3
+Chine,3,Modéré,124,770446,31.5,21.0,20.2,36.2,7.0
+Côte d'Ivoire,4,Élevé,135,873297,40.0,23.0,35.6,43.0,9.6
+Sénégal,4,Élevé,140,848575,36.4,25.0,25.7,43.1,9.1

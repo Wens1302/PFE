@@ -1,0 +1,13 @@
+pays,score_aml_moyen,taux_fraude,notation_pays,libelle_risque
+Belgique,19.11,0.04,1,Très faible
+France,19.13,0.02,1,Très faible
+Italie,19.61,0.03,1,Très faible
+Pays-Bas,20.39,0.04,1,Très faible
+États-Unis,21.02,0.07,1,Très faible
+Espagne,21.28,0.04,1,Très faible
+Allemagne,21.53,0.04,1,Très faible
+Émirats arabes unis,28.12,0.09,2,Faible
+Turquie,35.37,0.18,3,Modéré
+Chine,36.18,0.21,3,Modéré
+Côte d'Ivoire,42.96,0.23,4,Élevé
+Sénégal,43.11,0.25,4,Élevé
