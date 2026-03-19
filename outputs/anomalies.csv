@@ -1,61 +1,76 @@
-transaction_id,entreprise_id,pays,montant,technique_paiement,delai_reel,retard,historique_paiement,ville
-T000002,E0145,Pays-Bas,744694.28,Transfert,35,34,Mauvais,Meknès
-T000014,E0182,Pays-Bas,110032.87,Transfert,28,21,Excellent,Fès
-T000038,E0172,Belgique,878744.49,Remise documentaire,69,43,Moyen,Meknès
-T000043,E0178,Côte d'Ivoire,208591.2,Remise documentaire,48,24,Excellent,Meknès
-T000100,E0129,Pays-Bas,479089.09,Transfert,43,40,Moyen,Meknès
-T000125,E0186,Belgique,598609.74,Remise documentaire,67,42,Moyen,Meknès
-T000127,E0044,Sénégal,827425.19,Remise documentaire,66,44,Bon,Fès
-T000163,E0021,Sénégal,1558717.19,Transfert,43,37,Bon,Fès
-T000170,E0017,Sénégal,910676.32,Crédit documentaire,77,27,Moyen,Fès
-T000172,E0096,Turquie,805200.76,Transfert,50,43,Bon,Meknès
-T000173,E0139,Italie,1381413.63,Remise documentaire,48,35,Mauvais,Meknès
-T000198,E0106,France,1233220.5,Remise documentaire,50,36,Moyen,Fès
-T000208,E0005,Sénégal,1181600.71,Remise documentaire,64,45,Moyen,Meknès
-T000241,E0052,Côte d'Ivoire,610021.88,Crédit documentaire,85,30,Bon,Meknès
-T000243,E0105,Pays-Bas,1506181.7,Transfert,48,43,Moyen,Meknès
-T000248,E0169,Pays-Bas,1212986.1,Transfert,52,42,Excellent,Meknès
-T000299,E0020,Italie,1311065.96,Remise documentaire,69,45,Mauvais,Fès
-T000319,E0151,Pays-Bas,1263244.35,Remise documentaire,75,45,Bon,Fès
-T000339,E0089,Pays-Bas,220766.26,Remise documentaire,63,43,Bon,Fès
-T000357,E0114,Italie,1076057.6,Transfert,36,30,Bon,Fès
-T000369,E0100,États-Unis,1148928.25,Crédit documentaire,69,38,Mauvais,Fès
-T000381,E0147,Turquie,569238.54,Crédit documentaire,95,39,Moyen,Meknès
-T000473,E0054,Belgique,497459.7,Crédit documentaire,78,43,Moyen,Meknès
-T000494,E0021,Émirats arabes unis,605149.85,Transfert,40,32,Bon,Fès
-T000497,E0159,Pays-Bas,819408.65,Transfert,52,43,Moyen,Meknès
-T000502,E0127,Italie,436974.54,Remise documentaire,63,40,Moyen,Meknès
-T000551,E0137,Allemagne,669590.59,Transfert,50,41,Moyen,Meknès
-T000555,E0190,Belgique,51683.23,Transfert,21,12,Bon,Meknès
-T000561,E0116,États-Unis,1131762.23,Remise documentaire,65,37,Moyen,Meknès
-T000589,E0187,Pays-Bas,1342255.14,Remise documentaire,47,31,Mauvais,Meknès
-T000622,E0132,Chine,1129268.23,Crédit documentaire,85,29,Moyen,Fès
-T000632,E0021,Pays-Bas,778282.05,Crédit documentaire,94,35,Bon,Fès
-T000667,E0137,Chine,311148.88,Crédit documentaire,60,6,Moyen,Meknès
-T000676,E0106,Allemagne,1046374.24,Crédit documentaire,69,41,Moyen,Fès
-T000692,E0023,Allemagne,884406.99,Transfert,51,41,Mauvais,Fès
-T000731,E0155,France,237335.56,Remise documentaire,56,34,Bon,Meknès
-T000736,E0013,Sénégal,420240.44,Transfert,52,45,Mauvais,Meknès
-T000744,E0063,Côte d'Ivoire,1824033.82,Crédit documentaire,83,45,Mauvais,Meknès
-T000751,E0005,Chine,1524979.42,Crédit documentaire,69,25,Moyen,Meknès
-T000771,E0100,Émirats arabes unis,135615.63,Transfert,31,27,Mauvais,Fès
-T000808,E0060,Belgique,1431828.86,Transfert,31,30,Moyen,Meknès
-T000829,E0027,Sénégal,1782120.06,Remise documentaire,39,20,Bon,Fès
-T000850,E0020,Belgique,1063417.71,Crédit documentaire,90,39,Mauvais,Fès
-T000851,E0119,États-Unis,1604081.82,Remise documentaire,50,26,Moyen,Meknès
-T000860,E0092,Espagne,793430.84,Crédit documentaire,73,38,Mauvais,Fès
-T000916,E0195,Chine,599178.31,Remise documentaire,52,25,Bon,Fès
-T000948,E0019,Émirats arabes unis,1520376.17,Remise documentaire,63,40,Bon,Fès
-T000950,E0162,États-Unis,227689.96,Crédit documentaire,86,45,Moyen,Meknès
-T000954,E0023,Turquie,538950.41,Crédit documentaire,63,30,Mauvais,Fès
-T000962,E0042,Belgique,780915.46,Transfert,40,30,Excellent,Fès
-T000965,E0019,Turquie,1401359.32,Crédit documentaire,81,28,Bon,Fès
-T001025,E0020,Espagne,169443.14,Remise documentaire,70,45,Mauvais,Fès
-T001034,E0192,Chine,789778.37,Crédit documentaire,75,33,Moyen,Meknès
-T001035,E0200,Belgique,1269091.61,Remise documentaire,66,38,Bon,Fès
-T001072,E0026,Belgique,767713.37,Remise documentaire,68,43,Mauvais,Fès
-T001100,E0038,États-Unis,341461.84,Transfert,44,39,Excellent,Meknès
-T001131,E0067,Italie,1700974.32,Transfert,29,21,Moyen,Fès
-T001134,E0111,Chine,1716377.03,Crédit documentaire,59,0,Moyen,Meknès
-T001138,E0042,Belgique,1775900.96,Transfert,31,23,Excellent,Fès
-T001145,E0152,Espagne,841680.44,Remise documentaire,53,43,Bon,Meknès
+transaction_id,entreprise_id,pays,montant,technique_paiement,notation_pays,score_aml,delai_reel,retard,historique_paiement,ville,fraude_suspectee,risque_operationnel
+T000025,E0094,Sénégal,844369.04,Transfert,4,62.1,32,29,Moyen,Meknès,0,0
+T000088,E0022,Allemagne,1187458.0,Transfert,1,48.5,29,24,Mauvais,Fès,1,0
+T000115,E0125,Sénégal,1100773.21,Transfert,4,57.4,48,42,Mauvais,Meknès,0,0
+T000119,E0011,Chine,239259.57,Transfert,3,36.8,43,41,Bon,Fès,0,0
+T000123,E0124,Émirats arabes unis,573480.91,Remise documentaire,2,20.5,64,44,Bon,Meknès,1,0
+T000125,E0016,Pays-Bas,598609.74,Remise documentaire,1,26.0,58,29,Bon,Meknès,0,0
+T000143,E0022,Chine,271817.35,Transfert,3,52.1,43,33,Mauvais,Fès,1,1
+T000165,E0064,France,498505.53,Remise documentaire,1,5.7,68,42,Excellent,Meknès,0,0
+T000168,E0129,Chine,769159.32,Remise documentaire,3,40.4,51,36,Moyen,Meknès,0,0
+T000175,E0081,Sénégal,1888067.67,Crédit documentaire,4,48.7,77,39,Bon,Meknès,0,0
+T000181,E0133,Chine,1085600.2,Crédit documentaire,3,40.3,85,29,Mauvais,Meknès,0,0
+T000205,E0029,Sénégal,2341092.6,Crédit documentaire,4,49.9,60,0,Bon,Fès,0,1
+T000207,E0090,Côte d'Ivoire,1254226.26,Transfert,4,56.1,36,29,Bon,Meknès,0,0
+T000208,E0145,Côte d'Ivoire,1181600.71,Remise documentaire,4,65.0,25,2,Mauvais,Meknès,1,1
+T000275,E0090,Italie,1064852.27,Crédit documentaire,1,10.3,83,45,Bon,Meknès,0,0
+T000277,E0125,Chine,304873.8,Transfert,3,51.7,46,43,Mauvais,Meknès,0,1
+T000306,E0079,Côte d'Ivoire,1125403.85,Crédit documentaire,4,33.9,70,45,Bon,Meknès,0,0
+T000316,E0132,Pays-Bas,1636954.91,Transfert,1,41.6,13,12,Moyen,Fès,0,0
+T000356,E0040,Côte d'Ivoire,960684.69,Crédit documentaire,4,28.2,90,39,Excellent,Meknès,0,0
+T000367,E0051,Émirats arabes unis,1661272.98,Remise documentaire,2,36.2,39,27,Bon,Fès,0,0
+T000425,E0130,Émirats arabes unis,1400942.82,Transfert,2,36.5,25,24,Excellent,Fès,0,0
+T000442,E0126,Belgique,405709.58,Remise documentaire,1,21.6,71,41,Moyen,Fès,0,0
+T000453,E0012,Italie,885591.96,Crédit documentaire,1,3.8,87,27,Excellent,Fès,0,0
+T000460,E0096,Sénégal,689979.32,Remise documentaire,4,47.2,38,21,Bon,Meknès,0,0
+T000496,E0063,Italie,454403.69,Crédit documentaire,1,28.2,96,37,Mauvais,Meknès,0,0
+T000512,E0063,Chine,1028239.47,Remise documentaire,3,51.5,67,43,Mauvais,Meknès,0,0
+T000548,E0017,Côte d'Ivoire,915909.94,Crédit documentaire,4,45.5,60,25,Moyen,Fès,0,1
+T000581,E0142,Sénégal,595993.44,Transfert,4,42.6,45,44,Bon,Fès,0,1
+T000595,E0136,Sénégal,1398417.72,Remise documentaire,4,52.7,56,38,Mauvais,Meknès,0,1
+T000635,E0108,Italie,1539582.44,Transfert,1,41.3,38,33,Moyen,Meknès,0,0
+T000654,E0108,Allemagne,1298434.08,Crédit documentaire,1,20.3,97,43,Moyen,Meknès,0,0
+T000656,E0051,Chine,651423.65,Remise documentaire,3,30.9,67,40,Bon,Fès,0,0
+T000660,E0036,France,1500908.18,Transfert,1,29.3,41,34,Excellent,Fès,0,0
+T000669,E0007,États-Unis,703869.84,Crédit documentaire,1,16.1,78,30,Excellent,Meknès,0,0
+T000674,E0098,Sénégal,1263731.92,Transfert,4,49.7,51,43,Bon,Meknès,0,0
+T000680,E0032,Côte d'Ivoire,299554.57,Transfert,4,39.6,46,40,Excellent,Fès,0,0
+T000720,E0111,Sénégal,1466189.78,Remise documentaire,4,57.7,68,42,Moyen,Meknès,0,0
+T000721,E0136,Chine,1205748.03,Transfert,3,57.2,37,31,Mauvais,Meknès,0,0
+T000745,E0023,Allemagne,761576.04,Transfert,1,47.4,45,37,Mauvais,Fès,0,0
+T000761,E0023,Côte d'Ivoire,1048268.84,Remise documentaire,4,64.6,51,29,Mauvais,Fès,1,1
+T000767,E0101,Belgique,1232312.29,Transfert,1,40.6,51,43,Moyen,Fès,0,0
+T000792,E0048,Sénégal,725251.34,Remise documentaire,4,40.8,69,39,Moyen,Fès,0,0
+T000807,E0085,France,1381353.79,Crédit documentaire,1,12.1,71,45,Bon,Fès,0,0
+T000813,E0027,Italie,432539.22,Crédit documentaire,1,21.0,84,32,Bon,Fès,0,0
+T000843,E0030,Côte d'Ivoire,193702.35,Remise documentaire,4,33.1,59,31,Excellent,Fès,0,0
+T000844,E0106,Pays-Bas,1419002.08,Remise documentaire,1,35.0,55,35,Moyen,Fès,0,0
+T000855,E0137,États-Unis,507627.98,Crédit documentaire,1,18.3,95,41,Moyen,Meknès,0,0
+T000862,E0100,Côte d'Ivoire,1810772.97,Remise documentaire,4,57.7,34,7,Mauvais,Fès,1,0
+T000939,E0145,Émirats arabes unis,1027906.91,Transfert,2,52.2,42,38,Mauvais,Meknès,0,0
+T000948,E0125,Côte d'Ivoire,1520376.17,Transfert,4,59.9,45,42,Mauvais,Meknès,0,1
+T000994,E0026,Sénégal,539432.8,Remise documentaire,4,50.1,70,40,Mauvais,Fès,0,0
+T000997,E0100,Sénégal,969666.38,Transfert,4,70.4,34,30,Mauvais,Fès,1,0
+T001002,E0028,Belgique,1491017.27,Transfert,1,29.2,7,0,Excellent,Meknès,0,0
+T001003,E0023,Sénégal,974529.47,Transfert,4,55.4,51,41,Mauvais,Fès,0,0
+T001052,E0023,Chine,602497.37,Transfert,3,50.8,37,33,Mauvais,Fès,0,0
+T001095,E0011,Sénégal,1242210.37,Transfert,4,42.4,49,45,Bon,Fès,0,0
+T001099,E0112,Turquie,1453372.61,Transfert,3,56.1,3,0,Moyen,Fès,0,0
+T001131,E0121,Côte d'Ivoire,1700974.32,Transfert,4,64.3,31,29,Moyen,Fès,1,1
+T001154,E0052,Sénégal,1356800.91,Transfert,4,56.4,9,0,Bon,Meknès,1,0
+T001181,E0133,Côte d'Ivoire,238957.89,Crédit documentaire,4,50.9,51,18,Mauvais,Meknès,0,0
+T001256,E0129,Sénégal,485604.22,Transfert,4,49.1,34,33,Moyen,Meknès,1,1
+T001259,E0042,Côte d'Ivoire,1003196.53,Transfert,4,50.5,8,6,Excellent,Fès,1,1
+T001266,E0133,Turquie,760444.14,Transfert,3,49.6,55,45,Mauvais,Meknès,0,0
+T001291,E0128,Sénégal,822659.97,Transfert,4,55.1,18,17,Bon,Meknès,1,0
+T001367,E0116,Côte d'Ivoire,537242.29,Transfert,4,61.3,7,0,Moyen,Meknès,1,0
+T001375,E0100,Côte d'Ivoire,1400533.46,Transfert,4,71.5,40,37,Mauvais,Fès,1,1
+T001383,E0136,Turquie,1171136.05,Transfert,3,56.2,35,33,Mauvais,Meknès,1,0
+T001394,E0036,Côte d'Ivoire,358716.65,Crédit documentaire,4,29.2,73,29,Excellent,Fès,0,1
+T001424,E0114,Chine,952463.35,Transfert,3,33.0,53,44,Bon,Fès,1,0
+T001431,E0074,Turquie,567790.62,Crédit documentaire,3,17.9,77,31,Excellent,Meknès,0,0
+T001433,E0132,Espagne,1467961.8,Transfert,1,41.2,3,0,Moyen,Fès,0,0
+T001439,E0084,Côte d'Ivoire,746393.13,Remise documentaire,4,44.4,64,43,Moyen,Meknès,0,0
+T001444,E0147,Chine,967812.98,Crédit documentaire,3,45.9,51,7,Moyen,Meknès,0,0
+T001448,E0045,Sénégal,650866.74,Crédit documentaire,4,38.8,97,41,Moyen,Fès,1,0
+T001487,E0135,Espagne,1288413.48,Remise documentaire,1,19.1,63,44,Bon,Fès,0,0
